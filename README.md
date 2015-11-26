@@ -1,7 +1,6 @@
 # reliwerk
 
-[![Join the chat at https://gitter.im/rpi-virtuell/reliwerk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rpi-virtuell/reliwerk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Die Nachfolgeplattform von rpi-virtuell
+reliwerk ist die Nachfolgeplattform von rpi-virtuell
 
 Dieses Repositorium nutzt die Issue-Funktionalität von Github. Es enthält keinen Code, sondern dient lediglich dazu, Bugs zu fixen.
 
